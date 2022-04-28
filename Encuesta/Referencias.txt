@@ -1,0 +1,3 @@
+https://rpubs.com/jboscomendoza/mineria-de-textos-con-r
+
+Word cloud: https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a
